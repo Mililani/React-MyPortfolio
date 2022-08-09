@@ -19,8 +19,8 @@ const About = () => {
           <p className="text-xl  text-bold text-white
           ">
           Software Developer with Full stack web ,Mobile app development capabilities  background knowledge of 
-          of MERN stacks ,Flutter and the DotNet along with a drive to building applications with the utmost efficiency.Strong understand
-          of the SDLC process willing to be an asset for and organization.
+          of MERN stacks ,Flutter and the DotNet along with a drive to building applications with the utmost efficiency.Strong understanding 
+          of the SDLC process, willing to be an asset for and organization.
           </p>
           <br />
 
