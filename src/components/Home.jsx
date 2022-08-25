@@ -22,8 +22,8 @@ const Home = () => {
                          I'm a Software Developer
                     </p>
                          <p className="text-xl text-white py-4 max-w-md">
-                             Possessing Full-stack knowledge with a Knack to building applications with front and backed and operations,great understand of 
-                                 software development life cycle,mobile applications develoment and  highly adptive when learning new technologies and programming languages. 
+                             Self-driven, motivated software Developer , possessing great leadership skills, adaptability, ability to work in a team environment, possessing strong time management, planning, coordination, and observation skills. Collaborative, goal driven and forward-thinking Software Developer enthusiastic in software development and the Fourth Industrial Revolution (4IR).
+                              Software developer  with a great understand of OOP (Object Orientated Programming) concepts, capable of building full Stack Web applications (both fronted and backend applications ) and Mobile Applications.
                           </p>
 
 
